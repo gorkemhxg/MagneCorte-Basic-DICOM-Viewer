@@ -1,0 +1,11 @@
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\bin\Debug\MagneCort.exe.config
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\bin\Debug\MagneCort.exe
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\bin\Debug\MagneCort.pdb
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.csproj.AssemblyReference.cache
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.Properties.Resources.resources
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.csproj.GenerateResource.cache
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.csproj.CoreCompileInputs.cache
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.exe
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.pdb
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.AnaForm.resources
+C:\Users\Glorry\source\repos\MagneCort\MagneCort\obj\Debug\MagneCort.GoruntuForm.resources

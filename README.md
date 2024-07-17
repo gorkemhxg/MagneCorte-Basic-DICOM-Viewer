@@ -8,3 +8,5 @@ Yakınlaştırma ve Uzaklaştırma: Görüntüler üzerinde detaylı inceleme ya
 Çerçeve İzleme: DICOM dosyalarındaki çoklu çerçeveleri (frame) izleyebilme.
 DICOM'u Resim Olarak Kaydetme: DICOM görüntülerini JPEG veya PNG formatında kaydetme.
 Çoklu Pencere Desteği: Aynı anda birden fazla DICOM dosyasını farklı pencerelerde açabilme ve görüntüleyebilme.
+
+![](https://github.com/gorkemhxg/MagneCorte-Basic-DICOM-Viewer/blob/main/Tanitim.gif)
